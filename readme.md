@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/favre-nicolas/personal_stack#list-of-services-availables"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/personal_stack#list-of-services"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <a href="https://github.com/favre-nicolas/personal_stack#utilisation"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br />
     <a><img alt="Updated" src="https://img.shields.io/badge/updated-2024_06_07_07h03-%232496ED.svg?style=for-the-badge&logo=social-blade&logoColor=white" ></a>
