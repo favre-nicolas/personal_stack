@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  server:
+    container_name: postgresql
+    hostname: postgresql
+    restart: always
+    image: docker.io/bitnami/postgresql:16
+    env_file:
+      - stack.env
+    volumes:
+      - postgresql_data:/bitnami/postgresql
+    networks:
+      - database
+
+volumes:
+  postgresql_data:
+    external: true
+
+networks:
+  database:
+    external:
+      name: database
