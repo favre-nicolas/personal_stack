@@ -22,17 +22,11 @@
 
 
 <div align="center">
-These docker-compose allow you to deploy multiple services easily and quickly.
-
-You can use them with Portainer directly or via docker-compose commands.
-
-All docker-compose are commented and are configured using variables.
-
-They all include support for Traefik.
+More text soon
 
 You can deploy a compatible Docker environment with Portainer and Traefik with:
 <p align="center">
-  <a href="https://github.com/PAPAMICA/docker-environment"><img src="https://img.shields.io/badge/docker_environment-%2300B8FC.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/PAPAMICA/docker-compose-collection"><img src="https://img.shields.io/badge/PAPAMICA%20%7C%20docker%20compose%20collection-%2300B8FC.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
@@ -40,6 +34,6 @@ You can deploy a compatible Docker environment with Portainer and Traefik with:
 
 | Service | Website | Update | Network | Volume |
 |:--:|--|--|--|--|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="20"/> [PostgreSQL](https://github.com/favre-nicolas/personal_stack/blob/master/stacks/database/postgresql/stack.yaml) | [postgresql.org](https://www.postgresql.org/) | 2022-05-10 | Database | postgresql_data |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="20"/> [PostgreSQL](https://github.com/favre-nicolas/personal_stack/blob/master/stacks/database/postgresql/stack.yaml) | [postgresql.org](https://www.postgresql.org/) | 2024-07-26 | Database | postgresql_data |
 
 </div>
